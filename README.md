@@ -3,7 +3,7 @@ Offers a function to read user input synchronously from the command line.
 ### Example:
 
 ```js
-var query = require('./readLineSync');
+var query = require('synchronous-user-input');
 
 var name = query('please enter your name: ');
 console.log("hello, " + name + "!");
