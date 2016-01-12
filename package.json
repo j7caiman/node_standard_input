@@ -1,6 +1,10 @@
 {
   "name": "synchronous_user_input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Offers a function to read user input synchronously from the command line.",
-  "author": "Jon Miller <j7caiman+github@gmail.com>"
+  "author": "Jon Miller <j7caiman+github@gmail.com>",
+  "dependencies": {
+    "deasync": "^0.1.4"
+  },
+  "license": "MIT"
 }
