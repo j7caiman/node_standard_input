@@ -1,0 +1,6 @@
+{
+  "name": "synchronous_user_input",
+  "version": "0.0.1",
+  "description": "Offers a function to read user input synchronously.",
+  "author": "Jon Miller <j7caiman+github@gmail.com>"
+}
